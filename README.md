@@ -17,3 +17,6 @@ and pass the path of the oh-my-posh theme into it like this
 save and restart your terminal and you will see something like this
 
 ![oh-my-posh](ohmyposh.jpg)
+![oh-my-posh](nekonight-oh-my-posh.jpg)
+
+<img src="https://raw.githubusercontent.com/BrunoCiccarino/nekonight/refs/heads/main/img/line-gradient.svg" alt="line break" width="100%" height="3px">
